@@ -9826,6 +9826,7 @@ p,
 		margin: 0px;
 		position: fixed;
 		right: -119px;
+		float:left;
 		/*top:230px;*/
 		width: 200px;
 
